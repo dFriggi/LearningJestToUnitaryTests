@@ -1,4 +1,4 @@
-function mod(a,b){
+function mod(a,b = 20){
     return a%b
 }
 

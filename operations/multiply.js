@@ -1,4 +1,4 @@
-function multiply(a,b) {
+function multiply(a,b = 3) {
     return a*b
 }
 

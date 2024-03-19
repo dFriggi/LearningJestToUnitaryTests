@@ -1,4 +1,4 @@
-function subtract(a,b){
+function subtract(a,b = 2){
     return a-b
 }
 
